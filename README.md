@@ -8,7 +8,7 @@ Installation
 
 ```
 go get github.com/falzm/send_riemann
-$GOPATH/bin/send_riemann [options] <JSON-formatted Riemann event>
+$GOPATH/bin/send_riemann -h
 ```
 
 Usage
